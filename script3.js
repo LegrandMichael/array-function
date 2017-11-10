@@ -16,7 +16,7 @@ function tabMultiply (nombre) {
 	return res;
 
 }
-tabMultiply(5);
+tabMultiply(25);
 
 // Méthode 2
 //------------
