@@ -1,0 +1,36 @@
+/*table {
+  border-collapse: collapse;
+  
+}
+
+td {
+  border: 1px solid;
+  text-align:center;
+  height: 30px;
+  width: 30px;
+  
+  }*/
+
+  body {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0 auto;
+  }
+
+
+  .col-md-1 {
+    border:1px solid black;
+    color: white;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+  }
+
+  .col-lg-1 {
+    background-color: black;
+    border:1px solid;
+    color: black;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+  }
